@@ -1,0 +1,17 @@
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\bin\Debug\netcoreapp3.1\IMC_TESTE.exe
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\bin\Debug\netcoreapp3.1\IMC_TESTE.deps.json
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\bin\Debug\netcoreapp3.1\IMC_TESTE.runtimeconfig.json
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\bin\Debug\netcoreapp3.1\IMC_TESTE.runtimeconfig.dev.json
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\bin\Debug\netcoreapp3.1\IMC_TESTE.dll
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\bin\Debug\netcoreapp3.1\IMC_TESTE.pdb
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.csproj.AssemblyReference.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.Form1.resources
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.csproj.GenerateResource.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.AssemblyInfoInputs.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.AssemblyInfo.cs
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.csproj.CoreCompileInputs.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.dll
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.pdb
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.genruntimeconfig.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.RodiziodePlaca.resources

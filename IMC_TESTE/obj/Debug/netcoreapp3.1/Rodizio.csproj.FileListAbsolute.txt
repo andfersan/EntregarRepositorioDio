@@ -1,0 +1,7 @@
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\IMC_TESTE.RodiziodePlaca.resources
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\Rodizio.csproj.GenerateResource.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\Rodizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\Rodizio.AssemblyInfoInputs.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\Rodizio.AssemblyInfo.cs
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\Rodizio.csproj.CoreCompileInputs.cache
+C:\Treinamentos\IMC_TESTE\IMC_TESTE\obj\Debug\netcoreapp3.1\Rodizio.RodiziodePlaca.resources
