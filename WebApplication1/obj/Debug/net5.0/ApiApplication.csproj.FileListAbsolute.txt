@@ -1,0 +1,227 @@
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ApiApplication.exe
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ApiApplication.deps.json
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ApiApplication.runtimeconfig.json
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ApiApplication.runtimeconfig.dev.json
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ref\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\ApiApplication.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\MySqlConnector.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.AssemblyReference.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.AssemblyInfoInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.AssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.Manifest.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.xml
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\ApiApplication.styles.css
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.RazorTargetAssemblyInfo.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.CopyComplete
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ref\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\obj\Debug\net5.0\ApiApplication.genruntimeconfig.cache
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Api_Domain.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Api_Domain.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api\WebApplication1\bin\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.exe
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.deps.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.runtimeconfig.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.runtimeconfig.dev.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ref\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\MySqlConnector.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Domain.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Service.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Service.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Domain.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.AssemblyReference.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.AssemblyInfoInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.AssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.Manifest.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.xml
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\ApiApplication.styles.css
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.RazorTargetAssemblyInfo.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.CopyComplete
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ref\ApiApplication.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.genruntimeconfig.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_CrossCutting.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\AutoMapper.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Faker.NETCore.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\de-DE\Faker.NETCore.resources.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Castle.Core.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Moq.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\xunit.abstractions.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\xunit.core.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.exe
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.deps.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.runtimeconfig.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.runtimeconfig.dev.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ref\ApiApplication.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\ApiApplication.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\AutoMapper.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Castle.Core.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Faker.NETCore.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Moq.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\MySqlConnector.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\xunit.abstractions.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\xunit.core.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\de-DE\Faker.NETCore.resources.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_CrossCutting.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Data.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Domain.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Service.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_CrossCutting.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Service.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Data.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\bin\Debug\net5.0\Api_Domain.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.AssemblyReference.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.AssemblyInfoInputs.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.AssemblyInfo.cs
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.CoreCompileInputs.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.Manifest.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\staticwebassets\ApiApplication.StaticWebAssets.xml
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\ApiApplication.styles.css
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.RazorTargetAssemblyInfo.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.csproj.CopyComplete
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ref\ApiApplication.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\WebApplication1\obj\Debug\net5.0\ApiApplication.genruntimeconfig.cache

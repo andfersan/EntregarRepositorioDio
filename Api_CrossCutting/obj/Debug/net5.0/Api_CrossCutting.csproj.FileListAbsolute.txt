@@ -1,0 +1,59 @@
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.deps.json
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.runtimeconfig.json
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.runtimeconfig.dev.json
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\bin\Debug\net5.0\ref\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.AssemblyReference.cache
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.AssemblyInfoInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.AssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\ref\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.genruntimeconfig.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.deps.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.runtimeconfig.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.runtimeconfig.dev.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\ref\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.AssemblyReference.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.AssemblyInfoInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.AssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\ref\Api_CrossCutting.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.genruntimeconfig.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Domain.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Service.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Domain.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Service.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.CopyComplete
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.deps.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.runtimeconfig.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.runtimeconfig.dev.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\ref\Api_CrossCutting.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_CrossCutting.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Data.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Domain.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Service.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Data.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Domain.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\bin\Debug\net5.0\Api_Service.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.AssemblyReference.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.AssemblyInfoInputs.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.AssemblyInfo.cs
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.CoreCompileInputs.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.csproj.CopyComplete
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\ref\Api_CrossCutting.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\Api_CrossCutting\obj\Debug\net5.0\Api_CrossCutting.genruntimeconfig.cache

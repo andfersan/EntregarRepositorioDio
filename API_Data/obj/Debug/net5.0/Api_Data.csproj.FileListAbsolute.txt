@@ -1,0 +1,54 @@
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.csproj.AssemblyReference.cache
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.AssemblyInfoInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.AssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Data.deps.json
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Data.runtimeconfig.json
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Data.runtimeconfig.dev.json
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\ref\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Domain.dll
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\bin\Debug\net5.0\Api_Domain.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.csproj.CopyComplete
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\ref\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api\API_Data\obj\Debug\net5.0\Api_Data.genruntimeconfig.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.deps.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.runtimeconfig.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.runtimeconfig.dev.json
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\ref\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Domain.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Domain.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.csproj.AssemblyReference.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.AssemblyInfoInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.AssemblyInfo.cs
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.csproj.CoreCompileInputs.cache
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.csproj.CopyComplete
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\ref\Api_Data.dll
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.pdb
+C:\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.genruntimeconfig.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.deps.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.runtimeconfig.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.runtimeconfig.dev.json
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\ref\Api_Data.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Data.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Domain.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\bin\Debug\net5.0\Api_Domain.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.csproj.AssemblyReference.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.AssemblyInfoInputs.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.AssemblyInfo.cs
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.csproj.CoreCompileInputs.cache
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.csproj.CopyComplete
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\ref\Api_Data.dll
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.pdb
+C:\ProjetosVs\CursoUdemy\API_CursoUdemy\Api - generica\API_Data\obj\Debug\net5.0\Api_Data.genruntimeconfig.cache
